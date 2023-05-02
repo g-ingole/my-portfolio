@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.98067c00.css",
+    "main.js": "/my-portfolio/static/js/main.337eba54.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/ccd.png": "/my-portfolio/static/media/ccd.a5b5e61d72289e6b0ffd.png",
+    "static/media/topntown.png": "/my-portfolio/static/media/topntown.3395fa8a60630454aae4.png",
+    "static/media/user.png": "/my-portfolio/static/media/user.64d4fa38f17b91a8acba.png",
+    "static/media/users.png": "/my-portfolio/static/media/users.79cb0a22b92302dc00b6.png",
+    "static/media/phone-background.png": "/my-portfolio/static/media/phone-background.7436f42f2ee3965fcda7.png",
+    "static/media/background.png": "/my-portfolio/static/media/background.de94c36e263dc8d6b9ff.png",
+    "static/media/Mr. Gaurav.pdf": "/my-portfolio/static/media/Mr. Gaurav.64d59e80f1ea8409eeda.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.98067c00.css.map": "/my-portfolio/static/css/main.98067c00.css.map",
+    "main.337eba54.js.map": "/my-portfolio/static/js/main.337eba54.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98067c00.css",
+    "static/js/main.337eba54.js"
+  ]
+}
