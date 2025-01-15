@@ -1,0 +1,135 @@
+/* Services Container */
+.services-container {
+  padding: 50px 20px;
+  background-color: #121212;
+}
+
+/* Service Card */
+.service-card {
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease,
+    background-color 0.3s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  background-color: #1e1e1e;
+}
+
+.service-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  background-color: #ff004f; /* Change background color on hover */
+}
+
+/* Service Title */
+.service-title {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.3s ease;
+}
+
+.service-card:hover .service-title,
+.service-card:hover .service-title i {
+  color: #ffffff; /* Change text and icon color to white on hover */
+}
+
+/* Service Description */
+.service-description {
+  color: #b0b0b0;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 20px 0;
+  transition: color 0.3s ease;
+}
+
+.service-card:hover .service-description {
+  color: #ffffff; /* Optional: Change description text color to white on hover */
+}
+
+/* Service Link */
+.service-link {
+  color: #ff004f !important;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  display: inline-block;
+  margin-top: 10px;
+  transition: color 0.3s ease;
+}
+
+.service-card:hover .service-link {
+  color: #ffffff !important; /* Change link color to white on hover */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .service-title {
+    font-size: 20px;
+  }
+
+  .service-description {
+    font-size: 14px;
+  }
+
+  .service-link {
+    font-size: 14px;
+  }
+
+  .service-card {
+    margin: 0 10px; /* Adding some margin to avoid cards touching each other */
+  }
+}
+
+@media (max-width: 480px) {
+  .services-container {
+    padding: 20px 10px; /* Reducing padding on smaller screens */
+  }
+
+  .service-title {
+    font-size: 18px;
+  }
+
+  .service-description {
+    font-size: 13px;
+  }
+
+  .service-link {
+    font-size: 14px;
+  }
+
+  .service-card {
+    margin: 10px 0; /* Ensuring there is space between cards on very small screens */
+    padding: 20px; /* Reducing card padding for smaller screens */
+  }
+}
+
+@media (max-width: 375px) {
+  .service-title {
+    font-size: 16px; /* Adjust title size further for smaller screens */
+  }
+
+  .service-description {
+    font-size: 12px;
+  }
+
+  .service-link {
+    font-size: 12px;
+  }
+
+  .service-card {
+    width: 232px;
+    padding: 15px; /* Further reduce padding on 375px screens */
+  }
+}
+
+.service-title i {
+  color: #ff004f; /* Default color for the icon */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+/* On Card Hover */
+.service-card:hover .service-title i {
+  color: #ffffff; /* Change icon color to white on hover */
+}
