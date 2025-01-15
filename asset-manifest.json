@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.ed582a85.css",
+    "main.js": "/my-portfolio/static/js/main.aaf1c3be.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/screencapture-responsive-dribble-netlify-app-2025-01-13-18_37_08.png": "/my-portfolio/static/media/screencapture-responsive-dribble-netlify-app-2025-01-13-18_37_08.910c6d37f44524608d6d.png",
+    "static/media/phone-background.png": "/my-portfolio/static/media/phone-background.7436f42f2ee3965fcda7.png",
+    "static/media/screencapture-celebrated-longma-d80e44-netlify-app-2025-01-13-18_44_47.png": "/my-portfolio/static/media/screencapture-celebrated-longma-d80e44-netlify-app-2025-01-13-18_44_47.35f31bb5ab19f7525fb1.png",
+    "static/media/background.png": "/my-portfolio/static/media/background.de94c36e263dc8d6b9ff.png",
+    "static/media/ccd.png": "/my-portfolio/static/media/ccd.02e9c54b5b0dbc3d9d75.png",
+    "static/media/Mr. Gaurav.pdf": "/my-portfolio/static/media/Mr. Gaurav.c792a05cf303479d9bee.pdf",
+    "index.html": "/my-portfolio/index.html",
+    "main.ed582a85.css.map": "/my-portfolio/static/css/main.ed582a85.css.map",
+    "main.aaf1c3be.js.map": "/my-portfolio/static/js/main.aaf1c3be.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed582a85.css",
+    "static/js/main.aaf1c3be.js"
+  ]
+}
